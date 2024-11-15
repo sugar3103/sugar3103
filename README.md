@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm a full-stack developer/ team lead with more than 7 years of experience,<br>I can do web, applications, build backend, run devops, and create databases.<br>i can use nodejs, javascript, react, next, tailwindcss, MongoDB, MySQL, ubuntu
+Profile
+I am an experienced Web and App Engineer adept in all stages of advanced development, from initial design to final deployment. My expertise spans UI/UX design, testing, debugging, and system architecture. With a proven track record in the design, installation, testing, and maintenance of web and app systems, I bring a diverse and robust skill set to every project.<br>
+I am capable of building solutions from scratch and have successfully navigated multiple cycles of real-life, market-deployed web and app projects. Additionally, I excel in self-management, allowing me to efficiently handle independent projects from start to finish.<br>
+I am currently seeking a promising project that offers the potential for a stable, long-term income. My goal is to find a project where I can contribute and grow over the long haul, as I prefer not to engage in short-term projects with unclear market strategies and uncertain futures. I am committed to dedicating my skills and expertise to a venture that values long-term stability and success.
+
 
 
 ## 🌐 Socials:
