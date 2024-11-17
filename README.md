@@ -3,7 +3,7 @@ Hi My name is Phan Kien Duong aka Dave ![](https://user-images.githubusercontent
 I am an experienced Web and App Engineer adept in all stages of advanced development, from initial design to final deployment. My expertise spans UI/UX design, testing, debugging, and system architecture. With a proven track record in the design, installation, testing, and maintenance of web and app systems, I bring a diverse and robust skill set to every project.<br>
 I am capable of building solutions from scratch and have successfully navigated multiple cycles of real-life, market-deployed web and app projects. Additionally, I excel in self-management, allowing me to efficiently handle independent projects from start to finish.<br>
 
-Fullstack Web/App Developer/DevOps
+Fullstack Web/App/DevOps Developer/TeamLeader
 ----------------------------------
 *   🌍  I'm based in Viet Nam
 *   🖥️  See my portfolio at [Đường Phan](http://www.linkedin.com/in/duongpk/)
