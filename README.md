@@ -10,10 +10,6 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11588905/Đường-phan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-00C7B7?style=flat&logo=netlify)](http://www.linkedin.com/in/duongpk/)
 
-<a href="https://www.github.com/sugar3103" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/sugar3103?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</a>
-
 </div>
 
 ---
