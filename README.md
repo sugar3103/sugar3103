@@ -21,7 +21,6 @@ I'm an experienced **Fullstack Engineer** specializing in building scalable web 
 ```javascript
 const dave = {
   location: "Ho Chi Minh City, Vietnam 🇻🇳",
-  currentProject: "pding - pd-ing.com",
   experience: ["Full Development Lifecycle", "Team Leadership", "DevOps & CI/CD"],
   approach: "Building from scratch with production-ready quality",
   contact: "duong16628@gmail.com"
