@@ -6,10 +6,6 @@
 
 *Transforming ideas into production-ready applications*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/duongpk) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11588905/Đường-phan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-00C7B7?style=flat&logo=netlify)](http://www.linkedin.com/in/duongpk/)
-
 </div>
 
 ---
