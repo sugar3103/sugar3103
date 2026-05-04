@@ -20,7 +20,7 @@ const dave: Developer = {
   location : "Ho Chi Minh City, Vietnam 🇻🇳",
   role     : ["Fullstack Engineer", "Team Leader", "DevOps Engineer"],
   focus    : "Building production-ready apps from concept to deployment",
-  delivered: ["Mezhome", "Episource", "FWD", "Aeon"],
+  delivered: ["Mezhome", "Glo", "Episource", "Wareflex", "VietJet", "Galaxy Mart", "Ethlas", "FWD", "Aeon Mall"],
   contact  : "duong16628@gmail.com",
 };
 ```
@@ -28,7 +28,7 @@ const dave: Developer = {
 - 🚀 Delivered **multiple production applications** across web & mobile platforms
 - 🏗️ Deep expertise in **system architecture**, testing, debugging, and maintenance
 - 👥 Strong **team leadership** & self-management in fast-paced environments
-- 🌐 Contributed to: [Mezhome](https://mezhome.com) · [Episource](https://www.episource.com/payer/connect/) · [FWD](https://fwd.com) · Aeon
+- 🌐 Contributed to: [Mezhome](https://mezhome.com) · [Wareflex](https://www.wareflex.io/vi) · [Episource](https://www.episource.com/payer/connect/) · [VietJet](https://agents2.vietjetair.com/login) ·  [FWD](https://fwd.com) · Aeon
 
 ---
 
